@@ -6,9 +6,12 @@ let count=0;
         
     }
     if(count==2){
-        console.log("Yes it is a prime ")
+
+
+        console.log("yes")
+
     }
     else{
-        console.log("No")
+        console.log("no")
     }
 }
