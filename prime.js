@@ -6,7 +6,7 @@ let count=0;
         
     }
     if(count==2){
-        console.log("Yes")
+        console.log("Yes it is a prime ")
     }
     else{
         console.log("No")
