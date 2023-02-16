@@ -6,9 +6,9 @@ let count=0;
         
     }
     if(count==2){
-        console.log("Yes")
+        console.log("no")
     }
     else{
-        console.log("No")
+        console.log("yes")
     }
 }
